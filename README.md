@@ -1,1 +1,1 @@
-# custo-pivot
+# custom-pivot
